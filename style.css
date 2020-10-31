@@ -49,7 +49,7 @@ header {
 nav {
 	  width: 950px;
 	  height: 50px;
-	  float: left;
+	  float: center;
 	  font-family: Geneva,Arial;
 	  border: 2px solid navy;
 	  background-color: #D0DBF0;
